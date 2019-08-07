@@ -8,6 +8,11 @@
 
 版本：0.5.0
 
+* [ApacheCN 面试求职交流群 724187166](https://jq.qq.com/?_wv=1027&k=54ujcL3)
+* [ApacheCN 学习资源](http://www.apachecn.org/)
+
+<!--break-->
+
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/think-os/details)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/think-os)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/think-os)
